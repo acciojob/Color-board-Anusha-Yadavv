@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
       square.addEventListener('mouseout', function () {
         // Change the color back after 1 second
         setTimeout(() => {
-          this.style.backgroundColor = 'lightgray';
+          this.style.backgroundColor = '#1d1d1d';
         }, 1000);
       });
     }
