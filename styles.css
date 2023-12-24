@@ -16,7 +16,7 @@ body {
 .square {
   width: 20px;
   height: 20px;
-  background-color: lightgray;
+  background-color: #1d1d1d;
   transition: background-color 1s ease-out;
 }
 
