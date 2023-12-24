@@ -5,7 +5,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-	background-color:#1d1d1d;
+/* 	background-color:#1d1d1d; */
 }
 
 .container {
@@ -17,8 +17,8 @@ body {
 .square {
   width: 20px;
   height: 20px;
-/*   background-color: #1d1d1d; */
-  transition:#1d1d1d 1s ease-out;
+  background-color: #1d1d1d;
+  transition:background-color 1s ease-out;
 }
 
 .square:hover {
